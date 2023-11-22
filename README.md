@@ -14,8 +14,7 @@ This is a Simple User Registration & Login systems app done with Node.js Framewo
 
 ## Getting Started
 
-### Deployment
-This Project is **[Live](https://reg-login-using-nodejs-mongodb.herokuapp.com/)** on: 🌍 **https://reg-login-using-nodejs-mongodb.herokuapp.com/**
+
 
 ## Running the tests
 
@@ -55,12 +54,7 @@ A Collection(**session**) is created which stores the users Logged session.
 <br>
 <br>
 
-## Prerequisites
-Tools that we need to run this app:
 
-- ***[Node.js](https://nodejs.org/en/)***
-- ***[Node Package Manager](https://www.npmjs.com/get-npm)***
-- ***[MongoDB (Atlas)](https://www.mongodb.com/cloud/atlas)***
 
 ## Installing
 ```
@@ -78,14 +72,8 @@ The server will start Running on
 + http://localhost:3000/
 
 
-## Author
-
-| Author                | Profile Link                                       |
-| --------------------- | :------------------------------------------------- |
-| **Guru HariHaraun N** | **[Guru Roxz](https://github.com/guruhariharaun)** |
 
 
-## Acknowledgments
 
 * Hat tip to anyone whose code was used.
 * Special mention to all the Nodejs dev's on youtube 😜
