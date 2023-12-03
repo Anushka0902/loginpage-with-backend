@@ -24,7 +24,7 @@ After the user logged in, a simple profile with the user's username and password
 ### •Password Reset:
 If the user forget his/her password, can reset by entering the registered Email id <br>and reset the password.
 
-<img src="./docs/forgetpass.PNG" height="200" width="400" style="border: 1px solid black;">
+
 
 ### DataBase:
 Here we use **[MongoDB ](https://www.mongodb.com/cloud/atlas)** as the database. Here we have two collection created, named as:
