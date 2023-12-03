@@ -39,7 +39,7 @@ If the user forget his/her password, can reset by entering the registered Email 
 <img src="./docs/forgetpass.PNG" height="200" width="400" style="border: 1px solid black;">
 
 ### DataBase:
-Here we use **[MongoDB Atlas(Cloud)](https://www.mongodb.com/cloud/atlas)** as the database. Here we have two collection created, named as:
+Here we use **[MongoDB ](https://www.mongodb.com/cloud/atlas)** as the database. Here we have two collection created, named as:
 - users.
 - sessions.
 
